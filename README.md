@@ -1,5 +1,5 @@
 # Minesweeper-Using-Java-Swing
 
-Este projeto é um campo minado com jogabilidade pelo console da aplicação Java. Para executa-lo, basta importa-lo pela sua IDE de preferencia através do File->Open Project From File System...
+Este projeto é um campo minado com jogabilidade pela interface da aplicação Java. Para executa-lo, basta iniciar Minesweeper.jar OU basta importa o projeto pela sua IDE de preferencia através do File->Open Project From File System...
 
-Depois executar a classe MainScreen.java em \src\com\github\Fa2bio\MinesweeperUsingJavaSwing\vision como um projeto java
+Depois basta executar a classe MainScreen.java em \src\com\github\Fa2bio\MinesweeperUsingJavaSwing\vision como um projeto java.
