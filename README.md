@@ -1,8 +1,3 @@
-
- Para executa-lo, basta iniciar Minesweeper.jar na raiz do projeto OU importando-o pela sua IDE de preferencia através do File->Open Project From File System...
-
-Depois basta executar a classe MainScreen.java em \src\com\github\Fa2bio\MinesweeperUsingJavaSwing\vision como um projeto java.
-
 <h1>Minesweeper-Using-Java-Swing</h1>
 
 > Status: Finished ✔️
@@ -41,3 +36,7 @@ A back-end and front-end project of a Minesweeper developed using Java. This is 
 MainScreen.java at \src\com\github\Fa2bio\MinesweeperUsingJavaSwing\vision
 
 ## <a name="preview"></a>Preview
+
+![Mine](https://user-images.githubusercontent.com/41877566/200029693-7624c56e-3ad3-4d46-8ba6-1f4ad2996021.png)
+
+![Mine2](https://user-images.githubusercontent.com/41877566/200030037-32c7b839-4b75-4815-b3d2-3131c5f7eccb.png)
