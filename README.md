@@ -27,7 +27,7 @@ A back-end and front-end project of a Minesweeper developed using Java. This is 
 ## <a name="installation"></a>Installation
 
 - Clone the repository for your device
-- Run Minesweeper.jar OR
+- Run Minesweeper.jar in the Uteis folder, OR
 - Import it as a Project From File System in your IDE...
 
 ## <a name="run-application"></a>Run Application
